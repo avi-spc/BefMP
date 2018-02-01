@@ -16,7 +16,7 @@ MonoBehaviour:
     m_Settings:
       mode: 0
       depth:
-        scale: 0.393
+        scale: 0.03
       motionVectors:
         sourceOpacity: 1
         motionImageOpacity: 0
@@ -71,7 +71,7 @@ MonoBehaviour:
   depthOfField:
     m_Enabled: 1
     m_Settings:
-      focusDistance: 2
+      focusDistance: 1.9254768
       aperture: 22.4
       focalLength: 100
       useCameraFov: 0
@@ -100,8 +100,8 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 2
-        threshold: 1.15
+        intensity: 0
+        threshold: 1
         softKnee: 0.5
         radius: 4
         antiFlicker: 0
